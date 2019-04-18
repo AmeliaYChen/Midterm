@@ -1,5 +1,5 @@
 ## YouTube介紹
-<image>https://www.google.com.tw/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiwzfeEtdnhAhWLwIsBHWcJDnkQjRx6BAgBEAU&url=https%3A%2F%2Fapplealmond.com%2Fposts%2F11884&psig=AOvVaw1bH0DKX1yV8sWI9GgTx6_M&ust=1555669061362232</image>
+
    YouTube創立於2005年，並且在2007年時推出台灣版本。YouTube是繼Google和Facebook之後全球第三大訪問量最高的網站(Alexa,2016)。YouTube每月超過10億觀眾瀏覽，且這些觀眾創造每月60億小時的瀏覽時間，而這些觀眾也樂於在YouTube上分享以及評論影片。
     YouTube不僅是提供娛樂的平台，更是藉由影音評論交流進行社交互動，並且提供各式各樣的訊息，作為一個社群媒體網站YouTube重現了”類似面對面交流的感覺”。 許多品牌也建立了YouTube頻道，並且利用它提升廣告訊息的曝光度以及與顧客互動的機會。有別於過往電視為廣告媒體的主要形式，由廣告商單向傳播訊息給消費者，現今因社群媒體的興起，消費者逐漸利用網路自行搜索商品訊息。
 <video autoplay loop muted playsinline webkit-playsinline id="video">
@@ -11,6 +11,8 @@
 
 #### 2015下半年討論區於購物影響力
   2015年同年資策會也調查了關於「2015下半年討論區於購物影響力」的分析結果如圖下所示，且發現討論區對於購物影響力大於個人化社群，透過如下(圖二)所示可看出消費者對於一項產品不熟悉時，藉由網友的購物經驗分享，最能影響其購買意圖。
+  <iframe src="https://plotdb.io/v/chart/21117" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
 
 
 
