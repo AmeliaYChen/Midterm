@@ -18,3 +18,7 @@
 ### YouTube影音廣告對購買意願之影響年齡分佈
   2016年資策會針對2016台灣數位影視型態與消費做趨勢分析，下圖為不同年齡區間對於 YouTube 影音廣告購買意願之影響比例圖，如下圖可以看出所有年齡層對於觀看YouTube 影音廣告都有「略微增加」其購買意願的趨勢。
   <iframe src="https://plotdb.io/v/chart/21181" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
+### 2016年至2018年訂閱數突破百萬和十萬的YouTube頻道數量趨勢
+  由下圖可知2016年至2018年台灣YouTuber的訂閱數量由持續成長的趨勢，由此可知越來越多人有訂閱頻道的習慣，也有越來越多人從事YouTuber這個職業，線上影音內容不斷成長且蓬勃發展，已經成為品牌主、廣告代理商日益看重對消費者的溝通方式，富含創意能量的內容創作者的成功跨界合作影片，代表影音社群更加成熟，也間接發展出獨特的線上影音產業，促使從事這樣新穎的職業的人口也不斷地持續成長。
+  <iframe src="https://plotdb.io/v/chart/21183" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
