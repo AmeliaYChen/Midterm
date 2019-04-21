@@ -7,7 +7,11 @@
   資策會產業情報研究所（MIC）公佈「2015上半年線上影視收看現況分析」如圖下所示，發現消費者「一星期2-3次（39.8%）」透過個人電腦收看線上影視頻率為最多，其次為「每天（24.3%）、一星期1次（14.5%）、一個月2-3（12.4%）、 一個月1次（4%）、三個月1次（3.3%）」，僅1.8%表示近半年沒有收看，表明針對台灣使用者來說每天觀看影視頻率是相當高。
 <iframe src="https://plotdb.io/v/chart/21116" width="120%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
 
-#### 2015下半年討論區於購物影響力
+#### Youtube使用者年齡分佈
+  Google 首度與數據分析公司合作，公布 YouTube 台灣使用者的調查行為，調查包含了使用者年齡結構如下圖，由統計資料可以看出，不只是年輕人愛觀看 YouTube 35歲到44歲的使用者也佔了大多數，而 YouTube 的重度使用者（每週造訪21小時以上）平均年齡為31歲。
+  <iframe src="https://plotdb.io/v/chart/21174" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+
+##### 2015下半年討論區於購物影響力
   2015年同年資策會也調查了關於「2015下半年討論區於購物影響力」的分析結果如圖下所示，且發現討論區對於購物影響力大於個人化社群，透過如下(圖二)所示可看出消費者對於一項產品不熟悉時，藉由網友的購物經驗分享，最能影響其購買意圖。
   <iframe src="https://plotdb.io/v/chart/21117" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
 
