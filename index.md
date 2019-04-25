@@ -12,7 +12,7 @@
   <iframe src="https://plotdb.io/v/chart/21174" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
 
 ### 2015下半年討論區於購物影響力
-  2015年同年資策會也調查了關於「2015下半年討論區於購物影響力」的分析結果如圖下所示，且發現討論區對於購物影響力大於個人化社群，透過如下(圖二)所示可看出消費者對於一項產品不熟悉時，藉由網友的購物經驗分享，最能影響其購買意圖。
+  2015年同年資策會也調查了關於「2015下半年討論區於購物影響力」的分析結果如圖下所示，且發現討論區對於購物影響力大於個人化社群，透過如下所示可看出消費者對於一項產品不熟悉時，藉由網友的購物經驗分享，最能影響其購買意圖。
   <iframe src="https://plotdb.io/v/chart/21116" width="120%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
 
 ### YouTube影音廣告對購買意願之影響年齡分佈
